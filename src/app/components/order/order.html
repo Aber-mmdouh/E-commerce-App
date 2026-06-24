@@ -1,0 +1,14 @@
+<h3> total order:{{totalprice}}</h3>
+<div class="mb-3" >
+  <label for="categorySelect">Select Category:</label>
+  <select class="form-select" aria-label="Default select example" [(ngModel)]="selectedcatid">
+    <option selected value="0">All</option>
+    @for (cat of categories; track $index) {
+      <option  [value]="cat.id" >{{cat.name}}</option>}
+
+  </select>
+
+</div>
+
+<app-products [receivedcat] = "selectedcatid" (onChangeTotal)="calcuprice($event)" > </app-products>
+

@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "dell laptop",
+      "price": 100,
+      "quantity": 0,
+      "imageUrl": "https://fakeimgp.pl/300x200/",
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "hp laptop",
+      "price": 200,
+      "quantity": 20,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 1
+    },
+    {
+      "id": "3",
+      "name": "lenovo laptop",
+      "price": 300,
+      "quantity": 30,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 1
+    },
+    {
+      "id": "4",
+      "name": "asus laptop",
+      "price": 400,
+      "quantity": 40,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 1
+    },
+    {
+      "id": "5",
+      "name": "samsung mobile",
+      "price": 500,
+      "quantity": 50,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 2
+    },
+    {
+      "id": "6",
+      "name": "iphone mobile",
+      "price": 600,
+      "quantity": 2,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 2
+    },
+    {
+      "id": "7",
+      "name": "huawei mobile",
+      "price": 700,
+      "quantity": 70,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 2
+    },
+    {
+      "id": "8",
+      "name": "oppo mobile",
+      "price": 800,
+      "quantity": 1,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 2
+    },
+    {
+      "id": "9",
+      "name": "Honor mobile",
+      "price": 30000,
+      "quantity": 1,
+      "imageUrl": "https://fakeimg.pl/300/",
+      "categoryId": 2
+    },
+    {
+      "id": "181e",
+      "name": "toshiba Laptop",
+      "price": "250000",
+      "quantity": "2",
+      "imageUrl": "C:\\fakepath\\daylight-.jpg",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "laptop"
+    },
+    {
+      "id": "2",
+      "name": "mobile"
+    }
+  ]
+
+}
