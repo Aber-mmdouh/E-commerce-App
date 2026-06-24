@@ -1,4 +1,5 @@
 # ECApp
+<img width="1586" height="589" alt="ecomPp" src="https://github.com/user-attachments/assets/1c6fafec-8c29-4f1d-81b8-aba62b307fa5" />
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.0.
 
